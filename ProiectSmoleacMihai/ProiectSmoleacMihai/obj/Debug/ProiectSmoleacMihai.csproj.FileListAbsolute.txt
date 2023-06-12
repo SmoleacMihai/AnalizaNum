@@ -1,0 +1,11 @@
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\bin\Debug\ProiectSmoleacMihai.exe.config
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\bin\Debug\ProiectSmoleacMihai.exe
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\bin\Debug\ProiectSmoleacMihai.pdb
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.csproj.AssemblyReference.cache
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.csproj.SuggestedBindingRedirects.cache
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.Form1.resources
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.Properties.Resources.resources
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.csproj.GenerateResource.cache
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.csproj.CoreCompileInputs.cache
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.exe
+D:\usarb\AnalizaNum\ProiectSmoleacMihai\ProiectSmoleacMihai\obj\Debug\ProiectSmoleacMihai.pdb

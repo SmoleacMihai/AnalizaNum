@@ -1,0 +1,5 @@
+﻿  Proiect4.cpp
+D:\usarb\AnalizaNum\Proiect4\Proiect4\Proiect4.cpp(60,9): warning C4101: 'k': unreferenced local variable
+D:\usarb\AnalizaNum\Proiect4\Proiect4\Proiect4.cpp(60,12): warning C4101: 'i': unreferenced local variable
+D:\usarb\AnalizaNum\Proiect4\Proiect4\Proiect4.cpp(61,26): warning C4101: 'S0': unreferenced local variable
+  Proiect4.vcxproj -> D:\usarb\AnalizaNum\Proiect4\x64\Debug\Proiect4.exe

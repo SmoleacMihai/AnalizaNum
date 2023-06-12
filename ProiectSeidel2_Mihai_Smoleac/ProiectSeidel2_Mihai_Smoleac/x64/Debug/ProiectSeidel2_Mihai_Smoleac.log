@@ -1,0 +1,5 @@
+﻿  ProiectSeidel2_Mihai_Smoleac.cpp
+D:\usarb\AnalizaNum\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac.cpp(64,9): warning C4101: 'k': unreferenced local variable
+D:\usarb\AnalizaNum\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac.cpp(64,12): warning C4101: 'i': unreferenced local variable
+D:\usarb\AnalizaNum\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac\ProiectSeidel2_Mihai_Smoleac.cpp(65,26): warning C4101: 'S0': unreferenced local variable
+  ProiectSeidel2_Mihai_Smoleac.vcxproj -> D:\usarb\AnalizaNum\ProiectSeidel2_Mihai_Smoleac\x64\Debug\ProiectSeidel2_Mihai_Smoleac.exe
